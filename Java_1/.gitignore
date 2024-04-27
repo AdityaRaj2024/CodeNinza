@@ -1,0 +1,4 @@
+*.class
+mypack/
+.vscode/
+swing/
