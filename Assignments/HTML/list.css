@@ -1,9 +1,0 @@
-.border
-{
-    list-style-type: circle;
-    border: 1px solid rgb(179, 57, 57);
-}
-.left
-{
-    float:right;width: 130px;border:1px solid blue;
-}
