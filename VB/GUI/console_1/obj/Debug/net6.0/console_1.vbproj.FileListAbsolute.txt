@@ -1,0 +1,14 @@
+D:\Programms\VB\GUI\console_1\bin\Debug\net6.0\console_1.exe
+D:\Programms\VB\GUI\console_1\bin\Debug\net6.0\console_1.deps.json
+D:\Programms\VB\GUI\console_1\bin\Debug\net6.0\console_1.runtimeconfig.json
+D:\Programms\VB\GUI\console_1\bin\Debug\net6.0\console_1.dll
+D:\Programms\VB\GUI\console_1\bin\Debug\net6.0\console_1.pdb
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.AssemblyInfo.vb
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.dll
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\refint\console_1.dll
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.pdb
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\console_1.genruntimeconfig.cache
+D:\Programms\VB\GUI\console_1\obj\Debug\net6.0\ref\console_1.dll

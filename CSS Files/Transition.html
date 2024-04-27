@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>transition</title>
+<style>
+.box
+{
+        height: 100px;
+        width: 200px;
+        border:1px red solid;
+        background-color:darkgreen;
+        color: wheat;
+        font-size: 40px;
+        margin: 200px;
+        text-align: center;
+        line-height: 100px;
+    }
+    #box2
+    {
+        height: 100px;
+        width: 200px;
+        border:1px b;
+        background-color: grey;
+        color: green;
+        font-size: 40px;
+        margin: 200px;
+        text-align: center;
+        line-height: 50px;
+    }
+       /* div:hover
+        {
+            transform:rotate(140deg);
+            transition-duration:20s;
+            transition-delay:4s;
+            transition-timing-function: ease-in;
+        } */
+div:hover
+{
+ transform:rotate(90deg);
+ transition : 10s 1s ease-in;
+}
+</style>
+</head>
+<body>
+<div class="box">rahul</div>
+<div id="box2">kumar</div>    
+</body>
+</html>

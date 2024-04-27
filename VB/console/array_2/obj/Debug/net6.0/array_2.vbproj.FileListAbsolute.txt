@@ -1,0 +1,14 @@
+D:\Programms\VB\console\array_2\bin\Debug\net6.0\array_2.exe
+D:\Programms\VB\console\array_2\bin\Debug\net6.0\array_2.deps.json
+D:\Programms\VB\console\array_2\bin\Debug\net6.0\array_2.runtimeconfig.json
+D:\Programms\VB\console\array_2\bin\Debug\net6.0\array_2.dll
+D:\Programms\VB\console\array_2\bin\Debug\net6.0\array_2.pdb
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.AssemblyInfoInputs.cache
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.AssemblyInfo.vb
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.dll
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\refint\array_2.dll
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.pdb
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\array_2.genruntimeconfig.cache
+D:\Programms\VB\console\array_2\obj\Debug\net6.0\ref\array_2.dll

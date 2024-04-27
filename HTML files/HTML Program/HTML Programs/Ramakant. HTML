@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+<table> 
+<form>
+<tr><th colspan="2" align="centre" >ADMISSION FORM/Registration From</th></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td><label for="fname">First Name: <font color="red"><sup>*</sup></font></td>
+<td><input type="text" placeholder="Enter Your First Name" id="fname" name="mname"></td></tr>
+
+<tr><td><label for="mname">Middle Name:</font></td>
+<td><input type="text" placeholder="Enter Your Middle Name" id="mname" name="mname"></td></tr>
+
+<tr><td><label for="lname">Last Name: <font color="red"><sup>*</sup></font> </font></td>
+<td><input type="text" placeholder="Enter Your Last Name" id="lname" name="lname"></td></tr>
+
+<tr><td><label for="Fathername">Father's Name: <font color="red"><sup>*</sup></font> </font></td>
+<td><input type="text" placeholder="Enter Your Father's Name" id="Fathername" name="Fathername"></td></tr>
+
+<tr><td><label for="mothername">Mothers' Name: <font color="red"><sup>*</sup></font> </font></td>
+<td><input type="text" placeholder="Enter Your Mothers' Name" id="mothername" name="mothername"></td></tr>
+
+<tr><td><button>SUBMIT</button></td> <td><button>BACK</button></td> <td><button>RESET</button></td>  <td><button>EXIT</button></td> </tr>
+
+</form>
+</table>
+</body>
+</html>

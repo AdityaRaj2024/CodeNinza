@@ -1,0 +1,8 @@
+body
+{
+ background-image: url("D:\wallpaper\l walpaper.jpg"),url("D:\wallpaper\Photo 1.jpg"),url("D:\wallpaper\wallpapper.jpg"),url("E:\Photos\Drive\photo_blob0.102133046 (1).jpg");
+ background-position: topleft , topright , bottomright , bottomleft;
+ background-repeat: no-repeat;
+ background-size: 100px 80px, 120px 90px, 150px 100px, 100px 100px;
+ 
+}

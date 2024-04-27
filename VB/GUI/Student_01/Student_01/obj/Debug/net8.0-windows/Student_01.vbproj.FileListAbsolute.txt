@@ -1,0 +1,17 @@
+D:\Codes\VB\GUI\Student_01\Student_01\bin\Debug\net8.0-windows\Student_01.exe
+D:\Codes\VB\GUI\Student_01\Student_01\bin\Debug\net8.0-windows\Student_01.deps.json
+D:\Codes\VB\GUI\Student_01\Student_01\bin\Debug\net8.0-windows\Student_01.runtimeconfig.json
+D:\Codes\VB\GUI\Student_01\Student_01\bin\Debug\net8.0-windows\Student_01.dll
+D:\Codes\VB\GUI\Student_01\Student_01\bin\Debug\net8.0-windows\Student_01.pdb
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.Form1.resources
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.frmStudentDetails.resources
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.vbproj.GenerateResource.cache
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.AssemblyInfoInputs.cache
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.AssemblyInfo.vb
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.vbproj.CoreCompileInputs.cache
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.dll
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\refint\Student_01.dll
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.pdb
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\Student_01.genruntimeconfig.cache
+D:\Codes\VB\GUI\Student_01\Student_01\obj\Debug\net8.0-windows\ref\Student_01.dll

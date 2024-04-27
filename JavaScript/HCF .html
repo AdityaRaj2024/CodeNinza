@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>HCF</title>
+</head>
+<script>
+var a,b,c,hcf ;
+//a=10
+//b=20
+//c=30 
+a=8
+b=12
+c=16
+hcf=a<b && a<c ? a:(b<c?b:c);
+while(a%hcf!=0||b%hcf!=0||c%hcf!=0)
+{
+    hcf--
+}
+document.write("H.C.F. = "+hcf)
+</script>
+</html>

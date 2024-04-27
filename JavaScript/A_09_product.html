@@ -1,0 +1,41 @@
+<!-- 
+    9)Write a JavaScript conditional statement to find the sign of product of three numbers. Display an alert box with the specified sign.
+ -->
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign</title>
+ </head>
+ <body>
+<script>
+    var x,y,z;
+    x=parseInt(prompt("Enter First Number"));
+    y=parseInt(prompt("Enter Second Number"));
+    z=parseInt(prompt("Enter Third Number"));
+    if (x>0 && y>0 && z>0)
+    {
+        alert("The sign is +ve.");
+    }
+    else if (x<0 && y<0 && z>0)
+    {
+        document.write("The sign is +ve");
+    }
+    else if (x>0 && y<0 && z<0)
+    {
+        document.write("The sign is +ve");
+    }
+    else if (x<0 && y>0 && z<0)
+    {
+        document.write("The sign is +ve");
+    }
+    else
+    {
+        document.write("The sign is -ve");
+    }
+</script>
+</script>
+ </body>
+ </html>

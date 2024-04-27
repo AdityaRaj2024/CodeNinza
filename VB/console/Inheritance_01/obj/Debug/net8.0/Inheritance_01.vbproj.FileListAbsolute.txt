@@ -1,0 +1,4 @@
+D:\Programms\VB\console\Inheritance_01\obj\Debug\net8.0\Inheritance_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\Inheritance_01\obj\Debug\net8.0\Inheritance_01.AssemblyInfoInputs.cache
+D:\Programms\VB\console\Inheritance_01\obj\Debug\net8.0\Inheritance_01.AssemblyInfo.vb
+D:\Programms\VB\console\Inheritance_01\obj\Debug\net8.0\Inheritance_01.vbproj.CoreCompileInputs.cache

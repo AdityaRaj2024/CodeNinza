@@ -1,0 +1,16 @@
+D:\Programms\VB\GUI\Form5\bin\Debug\net6.0-windows\Form5.exe
+D:\Programms\VB\GUI\Form5\bin\Debug\net6.0-windows\Form5.deps.json
+D:\Programms\VB\GUI\Form5\bin\Debug\net6.0-windows\Form5.runtimeconfig.json
+D:\Programms\VB\GUI\Form5\bin\Debug\net6.0-windows\Form5.dll
+D:\Programms\VB\GUI\Form5\bin\Debug\net6.0-windows\Form5.pdb
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.Form1.resources
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.vbproj.GenerateResource.cache
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.AssemblyInfo.vb
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.dll
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\refint\Form5.dll
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.pdb
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\Form5.genruntimeconfig.cache
+D:\Programms\VB\GUI\Form5\obj\Debug\net6.0-windows\ref\Form5.dll

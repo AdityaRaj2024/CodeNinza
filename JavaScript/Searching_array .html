@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Searching</title>
+</head>
+<body>
+    <script>
+        let i,n;
+        let nums = new Array(10);
+        for(i=0;i<10;i++)
+        {
+            nums[i]= parseInt(prompt("enter numbers : "+(i+1)));
+        }
+        n = parseInt(prompt("Enter element you want to search : "));
+        for(i=1;i<10;i++){
+            if (nums[i]==n)
+            {
+                alert("Element Found");
+                break;
+            }
+        }
+        if(i==10)
+        alert("Not Found")
+
+    </script>
+</body>
+</html>

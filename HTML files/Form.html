@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>Form Elements</title>
+<script type="text/javascript">
+</script>
+</head>
+<body background="D:\wallpaper\wallpapper.jpg">
+<center>
+<form>
+<table>
+<tr><td>NAME</td><TD><input type="text" name="" placeholder="ENTER YOUR NAME" required title="MANDTORY" size="25" autofocus></TD></tr>
+<tr><td>PASSWORD<span style="color:darkred;"><sup>*</sup></span></td><TD><input type="password" name="" title="IT'S PASSWORD TEXTBOX" maxlength="12" required placeholder="ENTER PASSWORD"></TD></tr>
+<tr><td>Gender</td><td><input type="radio" name="gen">Male<input type="radio" name="gen">Female</td></tr>
+<tr><td>User Type</td><TD><input type="radio" name="UType">Admin<input type="radio" name="UType">Guest</TD></tr>
+<tr><td>Hobbies</td><TD><input type="checkbox" name="">Music<input type="checkbox" name="">Cricket<input type="checkbox" name="">Movies</TD></tr>
+<tr><td>SELECT COLOUR</td><td><input type="color" name="" id="co"></td><td><input type="button" value="change color" onclick="window.changecolor()"></td></tr>
+<tr><td>SELECT DOB</td><td><input type="date"></td></tr>
+<tr><td>UPLOAD FILE</td><td><input type="file" name="" accept="image/*,application/pdf,.docx"></td></tr>
+<tr><td>ENTER TIME</td><td><input type="time"></td></tr>
+<tr><td>ENTER EMAIL</td><td><input type="email" placeholder="ENTER EMAILID"></td></tr>
+<tr><td>ENTER NUMERIC VALUE</td><td><input type="number"></td></tr>
+<tr><td>SELECT VALUE FOR SEARCH</td><td><input type="search" placeholder="ENTER SEARCH VALUE"></td></tr>
+<tr><td>ENTER TELEPHONE NUMBER</td><td><input type="tel" placeholder="ENTER TELEPHONE NUMBER"></td></tr>
+<tr><td>Mobile</td><td><input type="text" name="" pattern="[0-9]{10}" placeholder="Enter Mobile Number"></td></tr>
+<tr><td><fieldset><legend>NATIONALITY</legend><input type="radio" name="nation">INDIAN
+    <input type="radio" name="nation">NRI
+    <input type="radio" name="nation">FOREIGN</fieldset></td></tr>
+<tr><td>SELECT RANGE</td><td><input type="range" min="0" max="255" value="25"></td></tr>  
+<tr><td>PROGRESSIVE WORK</td><td><progress min="0" max="9999" value="600"></progress></td></tr>      
+<tr><td>SELECT YOUR STATE</td>
+    <td><select>
+    <option selected>BIHAR</option>
+    <option>JHARKHAND</option>
+    <option>WEST BENGAL</option>
+    <option>UTTAR PRADESH</option>
+    <option>KERLA</option>
+    </select></td></tr>
+<tr><td>SELECT YOUR CITY</td></tr>
+<tr><td><input type="text" list="city"><datalist id="city">
+    <option>BIHAR SHARIF</option>
+    <option selected>PATNA</option>
+    <option>BARH</option>
+    <option>RAJGIR</option>
+    <option>ISLAMPUR</option>
+    <option>HARNAUT</option>
+    <option>DANAPUR</option>
+    <option>GAYA</option>
+    </datalist>></td></tr>    
+<tr><td>SELECT FAVOURITE CRICKETER</td>
+    <td><select multiple>
+        <option>ROHIT</option>
+        <option>DRAVID</option>
+        <option>DHONI</option>
+        <option>SACHIN</option>
+        <option>GANGULY</option>
+        <option>VIRAT</option>
+        </select></td></tr>
+<tr><td>SELECT COURSE</td><td><select>
+    <optgroup label="IT">
+    <option>BCA</option>
+    <option>BSCIT</option>
+    <option>MCA</option>
+    <option>MSCIT</option>    
+    </optgroup>
+    <optgroup label="MGMT">
+    <option>BBA</option>
+    <option>B.COM</option>
+    <option>MBA</option>
+    <option>M.COM</option>
+    <option>PGDM</option>
+    </optgroup>
+</select></td></tr>        
+<tr><td>Address</td></tr>
+<tr><td><textarea rows="8" cols="49"></textarea></td></tr>
+<tr><td><input type="submit" value="signup"></td><td><input type="button" value="exit" onclick="window.close()"></td><td><input type="reset" value="Reset"></td></tr>
+</table>
+</form>
+</center>    
+</body>
+</html>

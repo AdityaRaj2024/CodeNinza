@@ -1,0 +1,14 @@
+D:\Programms\VB\console\properties_02\bin\Debug\net8.0\properties_02.exe
+D:\Programms\VB\console\properties_02\bin\Debug\net8.0\properties_02.deps.json
+D:\Programms\VB\console\properties_02\bin\Debug\net8.0\properties_02.runtimeconfig.json
+D:\Programms\VB\console\properties_02\bin\Debug\net8.0\properties_02.dll
+D:\Programms\VB\console\properties_02\bin\Debug\net8.0\properties_02.pdb
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.AssemblyInfoInputs.cache
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.AssemblyInfo.vb
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.dll
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\refint\properties_02.dll
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.pdb
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\properties_02.genruntimeconfig.cache
+D:\Programms\VB\console\properties_02\obj\Debug\net8.0\ref\properties_02.dll

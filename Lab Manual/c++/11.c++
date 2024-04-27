@@ -1,0 +1,1 @@
+// 11. Write a program for ex=1+x+x2+x3+x4+∙∙∙+xn using function with parameters and return type.

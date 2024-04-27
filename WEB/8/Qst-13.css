@@ -1,0 +1,15 @@
+/* p  [id="myid"]
+{
+    color: green;
+} */
+/* #myid {
+    color: chocolate;
+} */
+
+
+div[id="myid"] p{
+    color: aqua;
+}
+/* #myid p{
+    color: red;
+} */

@@ -1,0 +1,55 @@
+<!-- 
+What is AJAX?
+AJAX = Asynchronous Javascript and XML
+AJAX is not a Programming language
+AJAX just uses a combination of :- 
+    i)A browser built-in XML HttpRequest object(to request data from a web server)
+   ii)JavaScript and HTML DOM(to display or use the data)
+
+   *)How AJAX Works
+   1)Browser :- An events occurs
+                create an XML HTTP Request object
+                send HTTP Request
+                    |
+                    |->Internet
+                    |
+    2)Server :- Process HTTP Request
+                create arespomse and send data back to the browser
+                    |
+                    |->Internet
+                    |
+    3)Browser :- Process the returned data using JavaScript
+                Update Page content
+-->
+<!-- Example of AJAX -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJAX Example</title>
+</head>
+<body>
+    <div id="demo">
+        <h1>The XML HttpRequest</h1>
+        <button type="button" onclick="loadDoc()">Change Content</button>
+    </div>
+    <script>
+        function loadDoc()
+        {
+            let xhttp = new XMLHttpRequest();
+            xhttp.onreadystatechange = function()
+            {
+                if(this.readyState == 4 && this.status == 200)
+                {
+                    document.getElementById("demo").innerHTML = this.responseText;
+                }
+            }
+            // xhttp.open("GET","ajax.txt",true)
+            xhttp.open("GET","form.html",true)
+            xhttp.send();
+        }
+        
+    </script>
+</body>
+</html>

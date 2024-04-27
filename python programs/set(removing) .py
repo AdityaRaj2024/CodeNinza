@@ -1,0 +1,13 @@
+s={4,8,5,19,13}
+"""s.discard(11)
+print(s)
+s.discard(18)
+print(s)
+s.remove(5)
+print(s)
+s.remove(15)
+print(s)
+days={"Monday","Tuesday",'Wednesday','Thursday','Friday','Saturday',"Sunday"}
+days.pop()
+print(days)"""
+s.clear()

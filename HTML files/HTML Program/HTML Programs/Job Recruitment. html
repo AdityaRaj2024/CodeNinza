@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+<form> 
+<fieldset>
+<legend><b>Registration Form</b></legend>
+<fieldset> 
+<legend>Personal Details</legend>
+Name:<input type="text" placeholder="Enter Your Name"><br><br>
+Father's Name:<input type="text" placeholder="Enter Your Father's Name"><br><br>
+
+Mothers's Name:<input type="text" placeholder="Enter Your Mother's Name">
+
+
+</fieldset>
+
+<fieldset> 
+<legend>Contact Details</legend>
+
+Mobile No.:<input type="text" placeholder="Enter Your Mobile No."><br><br>
+Email:<input type="email" placeholder="Enter Your Email Address"><br><br>
+
+Father's Mobile No.:<input type="text" placeholder="Enter Father's Mobile No."><br><br>
+
+Mother's Mobile No.:<input type="text" placeholder="Enter Mother's Mobile No."><br><br>
+
+</fieldset>
+
+<fieldset> 
+<legend>Academic Details</legend>
+
+</fieldset>
+
+<fieldset> 
+<legend>Experience</legend>
+
+</fieldset><br><br>
+
+<input type="SUBMIT" name=SUBMIT id="SUBMIT">
+
+</fieldset>
+</form>
+</body>
+</html>

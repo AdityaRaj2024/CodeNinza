@@ -1,0 +1,3 @@
+Employee Id :- a101
+Basic Salary :-  1000
+Total Salary :-  1550

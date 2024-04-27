@@ -1,0 +1,37 @@
+<!--WAP in javascript to enter age and check whether you are eligible for voting or not.-->
+<html>
+<head>
+<title>Web Page</title>
+</head>
+<body>
+<input id="age" value="">
+<button onclick="myfuction()">Submit</button>
+</body>
+<Script> function myfuction()
+{
+    //a==parseInt(prompt("Enter Age"));
+    let age=document.getElementById("age").value;
+    let voteage=(age>=18)?document.write("You are eligible"):document.write("You are not eligible")
+}
+
+</Script>
+</html>
+
+
+<!-- <html>
+<head>
+<title>Web Page</title>
+</head>
+<body>
+<input id="age" value="18">
+<button onclick="myfuction()">Submit</button>
+</body>
+<Script> function myfuction()
+{
+    //a==parseInt(prompt("Enter Age"));
+    let age=document.getElementById("age").value;
+    let voteage=(age>=18)?document.write("You are eligible"):document.write("You are not eligible")
+}
+
+</Script>
+</html> -->

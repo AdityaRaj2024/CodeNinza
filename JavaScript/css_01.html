@@ -1,0 +1,22 @@
+<!--
+    Finding elements by css selector
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>Javascript HTML Dom</h2>
+    <p>Finding html elements by query selector</p>
+    <p class="intro">Hello World!</p>
+    <p class="intro">This examples demonstrates th <b>Query SelectorAll</b> Method</p>
+    <p id="demo"></p>
+    <script>
+        const x = document.querySelectorAll("P_intro");
+        document.getElementById("demo").innerHTML = "The first pragraph (index 0) with class = "intro" is :- "+x[0].innerHTML;
+    </script>
+</body>
+</html>

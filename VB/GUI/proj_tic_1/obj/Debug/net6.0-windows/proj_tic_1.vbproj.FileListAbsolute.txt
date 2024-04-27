@@ -1,0 +1,6 @@
+D:\Programms\VB\GUI\proj_tic_1\obj\Debug\net6.0-windows\proj_tic_1.tic_tac.resources
+D:\Programms\VB\GUI\proj_tic_1\obj\Debug\net6.0-windows\proj_tic_1.vbproj.GenerateResource.cache
+D:\Programms\VB\GUI\proj_tic_1\obj\Debug\net6.0-windows\proj_tic_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\proj_tic_1\obj\Debug\net6.0-windows\proj_tic_1.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\proj_tic_1\obj\Debug\net6.0-windows\proj_tic_1.AssemblyInfo.vb
+D:\Programms\VB\GUI\proj_tic_1\obj\Debug\net6.0-windows\proj_tic_1.vbproj.CoreCompileInputs.cache

@@ -1,0 +1,59 @@
+/* div{
+    height: 150px;
+    width: 180px;
+    margin: 3px auto;*/
+    /* use of alpha values :- ranges from 0 to 1 and 00 to ff */
+    /* background-color: rgba(255, 0,0,0.8); */
+    /* background-color: rgba(255, 0,0,0.8);
+    transition-duration: 1s; */
+    /* transition-delay: 1s; */
+    /* transition-timing-function: ease-in; 
+}*/
+/*div:hover{
+    background-color: blueviolet;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+#sec{
+    background-color: #ffa511;
+    opacity: 0.6;
+} */
+
+section{
+    margin-top: 100px;
+}
+div{
+    width: 400px;
+    height: 300px;
+    /* text-align: center; */
+    background-color: #7aa874;
+    /* border: 2px solid red; */
+    margin: 10px auto;
+    background-image: url("1.jpg");
+    background-size: cover;
+    color: white;
+    /* box-shadow: 2px 4px 8px black; */
+}
+/* div:nth-of-type(2n)
+{
+    background-color: #f7db6a;
+}
+div:nth-of-type(3n)
+{
+    background-color: #ebb02d;
+}
+#one{
+    transform: rotate(45deg);
+}
+#two{
+    transform: scale(0.5);
+}
+#three{
+    transform: translatex(100px);
+}
+#four{
+    transform: skew(-30deg);
+}
+#five{
+    transform: rotate(-30deg) scalex(1.2) translateY(150px);
+} */

@@ -1,0 +1,39 @@
+<!-- 05-06-2023
+    button on off -->
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page</title>
+</head>
+<body>
+    <button onclick="document.getElementById('my image').src='on.jpg'">on</button>
+    <img id="my image" src="off.jpg">
+    <button onclick="document.getElementById('my image').src='off.jpg'">Off</button>
+</body>
+</html> -->
+
+<html>
+<head>
+<title>Light On_Off</title>
+</head>
+<body>
+    <img id="image" src="off.jpg">
+    <form>
+        <input type="button" onclick="onn()" value="on">
+        <input type="button" onclick="off()" value="off">
+    </form>
+    <script>
+        function onn()
+        {
+            document.getElementById("image").src="on.jpg";
+        }
+        function off()
+        {
+            document.getElementById("image").src="off.jpg";
+        }
+    </script>
+</body>
+</html>

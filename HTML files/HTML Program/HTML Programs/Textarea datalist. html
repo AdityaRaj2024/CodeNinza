@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+<form>
+Course:
+<select>
+<option value="BCA">BCA</option>
+<option value="BBA">BBA</option>
+<option value="B.com">B.com</option>
+<option value="BBM">BBM</option>
+<option value="BSC.IT">BSC.IT</option>
+<option value="B.TECH">B.TECH</option><br>
+<br>
+</select><br><br>
+Browsers:
+<input list="browsers">
+<datalist id="browsers">
+<option value="Internet Explorer">
+<option value="Fire Fox">
+<option value="GOOGLE Chrome">
+<option value="Samsung Internet">
+</datalist>
+<br><br>
+
+textarea:
+<textarea name="massage" id="message" rows="2" cols="30" >The Boys are Playing in The Garden.
+</textarea>
+
+
+<textarea id="w3review" name="w3review" rows="4" cols="50">
+At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
+</textarea>
+
+
+</form>
+</body>
+</html>

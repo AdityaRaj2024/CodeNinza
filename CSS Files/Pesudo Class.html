@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>General Pseudoclass</title> 
+<style> 
+p:first-child 
+{
+     background-color: blue; 
+}
+p:last-child 
+{
+     background-color: red; 
+}
+p:nth-child(3)
+{
+     background-color: yellow; 
+}
+ /* :required 
+{
+     background-color: cyan; 
+} 
+:optional 
+{
+     background-color: wheat; 
+}*/
+/* input:read-only 
+{
+    background-color:limegreen;
+    border-radius: 40px; 
+}
+ :read-write 
+{ 
+    background-color:violet; 
+}*/
+/* 
+:enabled 
+{ 
+    background-color:limegreen; 
+    font-size: 30px; color: red; 
+} 
+:disabled 
+{
+    background-color:violet; 
+}*/ 
+/* 
+:checked 
+{
+     height: 30px;
+      width: 30px; 
+ }*/
+/* :focus 
+{ 
+    background-color: rgba(255,00,00,50); 
+ }*/ 
+ ::placeholder { color: blueviolet; font-size: 50px;
+    } input[type="text"]{ height: 200px; } ::after ::before </style> </head> <body> <p>welcome to HTML</p> <p>welcome to HTML</p> <p>welcome to HTML</p> <p>welcome to HTML</p> <p>welcome to HTML</p> <!-- first name <input type="text" required><br>
+    last name <input type="text"><br>--> <!-- first name <input type="text" readonly><br> last name <input type="text"><br>--> <!-- first name <input type="text" disabled><br> last name <input type="text"><br>--> <!-- Gender <input type="radio" name="Gender">male <input type="radio" name="Gender">female<br> Hobbies
+    <input type="checkbox" >music <input type="checkbox" >news--> <!--first name <input type="text" ><br> last name <input type="text"><br>--> first name <input type="text" placeholder="Enter your first name"size="50px"><br> last name <input type="text" placeholder="Enter your last name"><br>
+    </body> </html>

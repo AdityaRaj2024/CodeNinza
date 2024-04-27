@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" contsent="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form in HTML</title>
+</head>
+<body>
+    <form>
+        <p>Name : <input type="text" name="name" id="name" required> </p>
+        <fieldset>
+            <legend>Gender</legend>
+                <p>
+                    Male<input type="radio" name="gender" id="male" required>
+                    Female<input type="radio" name="gender" required id="female">
+                </p>
+        </fieldset>
+        <p>Address :<textarea name="Address" cols="50" id="Address" ></textarea> </p>
+        <p>Mobile Number : <input type="number" name="mobile" id="mobile" required> </p>
+        <p>Email : <input type="email" name="mail" id="mail"> </p>
+        <p>Date :<input type="date" id="date"> </p>
+        <p>Password: <input type="password" name="pass" id="pass" required> </p>
+        <hr>
+        <h3>Payment Details</h3>
+        <p>Payment Type : <select name="type" id="type" required>
+            <option value="">Select One</option>
+            <option value="Debit">Debit Card</option>
+            <option value="Credit">Credit Card</option>
+            <option value="UPI">UPI</option>
+            <option value="wallet">Wallet</option>
+        </select> </p>
+        <input type="submit" value="pay now">
+        <input type="reset" value="reset">
+        <input type="button" value="exit" onclick="window.close()">
+    </form>
+</body>
+</html>

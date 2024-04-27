@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+ <table border="1">  
+<tr><td>Qualification </td> <td> S.NO. </td> <td> Examination </td> <td> Board </td>  <td> Percentage </td> </tr>
+<tr><td>  </td></tr>
+<tr><td>  </td></tr>
+<tr><td>  </td></tr>
+<tr><td>  </td></tr>
+
+
+
+</table>
+
+
+
+</body>
+</html>

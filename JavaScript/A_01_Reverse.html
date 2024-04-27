@@ -1,0 +1,27 @@
+<!-- 
+    1)Write a JavaScript function that reverses a number. 
+ -->
+<html>
+<head>
+<title>Reverse</title>
+</head>
+<body onload="reverse()">
+<script>
+    var rev,d,num;
+    num=parseInt(prompt("Enter Any Number="))
+    function reverse(num) 
+    { 
+        rev=0;
+        while(num>0)
+        {
+            d=num%10;
+            rev=rev*10+d;
+            num=Math.floor(num/10);
+            //num=parseInt(num/10);
+        }
+        return rev;
+    } 
+    document.write("Reverse of number: "+reverse(num));
+</script>
+</body>
+ </html>

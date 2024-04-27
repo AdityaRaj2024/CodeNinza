@@ -1,0 +1,45 @@
+#bd{background-color: lightgreen;}
+.table
+{
+    border: 4.3px solid saddlebrown;
+    width: 950px;
+    height: 480px;
+}
+#ct
+{
+    color: blueviolet;
+    background-color: darkgray;
+    font-style: bold,italic;
+    font-family: 'Calibri';
+    font-size: 40px;
+    text-align: center;
+}
+#tm
+{   
+    color: crimson;
+    background-color: turquoise;
+    font-size: 28px;
+    text-align: center;
+}
+.am
+{
+    color: crimson;
+    background-color: chartreuse;
+    font-size: 20px;
+    text-align: center;
+
+}
+.ft
+{
+    color: darkorchid;
+    background-color: greenyellow;
+    font-size: 25px;
+    text-align: center;
+}
+#bk
+{
+    text-align: center;
+    font-size: 50;
+    background-color: coral;
+    color: yellow;
+}

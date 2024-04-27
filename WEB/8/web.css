@@ -1,0 +1,102 @@
+/* universal selector */
+*{
+    background-color: burlywood;
+}
+/* element selector */
+h3{
+    color: aqua;
+}
+h1{
+    color: #fc3831;
+}
+#login{
+    background-color: beige;
+}
+/* id selector */
+#signup{
+    background-color: cadetblue;
+}
+/* class selector */
+.up{
+    background-color: deeppink;
+    color: aqua;
+}
+/* descendent selector */
+/* p a{
+    color: purple;
+    background-color: yellow;
+} */
+.des a{
+    color: tomato;
+    background-color: linen;
+}
+nav ul li a{
+    text-decoration: none;
+    color: palevioletred;
+}
+/* sibling combinator */
+p+h3{
+    text-decoration: green underline;
+}
+.up+button{
+    color: cornflowerblue;
+    background-color: black;
+}
+/* child combinator */
+div>input{
+    background-color: rebeccapurple;
+}
+/* attribute selector */
+input[type="text"]
+{
+    color: red;
+}
+input[type="password"]{
+    color: green;
+}
+input[type]
+{
+    text-decoration: underline;
+}
+/* pseudo class */
+button:hover
+{
+    background-color: aqua;
+    color: brown;
+}
+p+h3:hover{
+    text-decoration: overline;
+}
+button:active{
+    background-color: coral;
+    color: black;
+}
+p:active{
+    font-weight: bold;
+    color: green;
+}
+input[type="radio"]:checked +label{
+    color: red;
+    font-weight: bold;
+}
+input[type="checkbox"]:checked +label{
+    color: firebrick;
+    font-weight: bold;
+}
+ 
+/* .des:nth-of-type(2){
+    background-color: blueviolet;
+} */
+div:nth-of-type(3n){
+    background-color: blue;
+}
+/* pseudo element */
+h1::first-letter{
+    color: aqua;
+}
+p::first-line{
+    color: palevioletred;
+}
+p::selection{
+    background-color: aqua;
+}

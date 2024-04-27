@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>Compare</title>
+</head>
+<body>
+<script>
+var a=new Array(10); 
+//var a=[0];
+//Graetest Number
+var i,gt;
+for(i=0;i<a.length;i++)
+{
+    a[i]=parseInt(prompt("Enter Numbers "+(i+1)));
+}
+gt=a[0];
+for(i=1;i<a.length;i++)
+{
+    if(a[i]>gt)
+    gt=a[i];
+}
+document.write("All Numbers are= "+a);
+document.write("<br>Greatest number's = "+gt);
+//Smallest Number
+/*var i,st;
+for(i=0;i<a.length;i++)
+{
+    a[i]=parseInt(prompt("Enter Numbers "+(i+1)));
+}
+st=a[0];
+for(i=1;i<a.length;i++)
+{
+    if(a[i]<st)
+    st=a[i];
+}
+document.write("All Numbers are= "+a);
+document.write("<br>Smallest number = "+st); */
+</script>
+</body>
+</html>

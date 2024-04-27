@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>twin Prime</title>
+</head>
+<body>
+ <script>
+var a,b,c1=0,c2=0,i,j;
+a=parseInt(prompt("Enter First Number"));
+b=parseInt(prompt("Enter Second Number"));
+if(a-b==2 || a-b==-2)
+{
+ for(i=1,j=1;i<=a/2,j<=b/2;i++,j++)
+  {
+    if(a%i==0 && b%j==0)
+     c1++;
+     c2++;
+  }
+  if(c1==1 && c2==1)
+ 
+  alert(" is twin prime Numbers");
+}
+else
+    alert(" is not twin prime Numbers");
+ </script>   
+</body>
+</html>

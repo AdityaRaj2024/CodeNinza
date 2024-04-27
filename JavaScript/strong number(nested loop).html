@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>strong number</title>
+</head>
+<body>
+<script>
+var n, d, sum=0, i, fact=1, num;
+n=parseInt(prompt("enter any number:-"))
+num=n;
+while(n>0)
+{
+ d=n%10;
+ for(i=1; i<=d; i++)
+ {
+  fact=fact*i;
+ }
+ sum=sum+fact;
+ fact=1;
+ n=Math.floor(n/10);
+}
+if(num==sum)
+alert("Strong Number.")
+else
+alert("Not Strong Number.") 
+</script>
+</body>
+</html>

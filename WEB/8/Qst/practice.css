@@ -1,0 +1,37 @@
+#main{
+    color: blue;
+    /* font-family: Georgia; */
+}
+*{
+    text-align: center;
+}
+/* .font{
+    font-family: Georgia;
+} */
+h1,h3,h5{
+    font-family: 'Lucida Sans';
+}
+.col{
+    color: #fff;
+    background-color: cornflowerblue;
+}
+div button{
+    background-color: purple;
+    color: azure;
+}
+div button:hover{
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+}
+p:nth-of-type(2n+1)
+{
+    color: yellow;
+}
+h1::first-letter{
+    color: red;
+}
+input[type="checkbox"]:checked +label{
+    color: darkgreen;
+    font-weight: bold;
+}

@@ -1,0 +1,14 @@
+D:\Programms\VB\console\array_string_3\bin\Debug\net6.0\array_string_3.exe
+D:\Programms\VB\console\array_string_3\bin\Debug\net6.0\array_string_3.deps.json
+D:\Programms\VB\console\array_string_3\bin\Debug\net6.0\array_string_3.runtimeconfig.json
+D:\Programms\VB\console\array_string_3\bin\Debug\net6.0\array_string_3.dll
+D:\Programms\VB\console\array_string_3\bin\Debug\net6.0\array_string_3.pdb
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.AssemblyInfoInputs.cache
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.AssemblyInfo.vb
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.dll
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\refint\array_string_3.dll
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.pdb
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\array_string_3.genruntimeconfig.cache
+D:\Programms\VB\console\array_string_3\obj\Debug\net6.0\ref\array_string_3.dll

@@ -1,0 +1,14 @@
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.AssemblyInfoInputs.cache
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.AssemblyInfo.vb
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\console\LCM\bin\Debug\net6.0\LCM.exe
+D:\Programms\VB\console\LCM\bin\Debug\net6.0\LCM.deps.json
+D:\Programms\VB\console\LCM\bin\Debug\net6.0\LCM.runtimeconfig.json
+D:\Programms\VB\console\LCM\bin\Debug\net6.0\LCM.dll
+D:\Programms\VB\console\LCM\bin\Debug\net6.0\LCM.pdb
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.dll
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\refint\LCM.dll
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.pdb
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\LCM.genruntimeconfig.cache
+D:\Programms\VB\console\LCM\obj\Debug\net6.0\ref\LCM.dll

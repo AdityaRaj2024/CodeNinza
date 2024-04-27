@@ -1,0 +1,16 @@
+D:\Programms\VB\GUI\proj_tic-tac\bin\Debug\net6.0-windows\proj_tic-tac.exe
+D:\Programms\VB\GUI\proj_tic-tac\bin\Debug\net6.0-windows\proj_tic-tac.deps.json
+D:\Programms\VB\GUI\proj_tic-tac\bin\Debug\net6.0-windows\proj_tic-tac.runtimeconfig.json
+D:\Programms\VB\GUI\proj_tic-tac\bin\Debug\net6.0-windows\proj_tic-tac.dll
+D:\Programms\VB\GUI\proj_tic-tac\bin\Debug\net6.0-windows\proj_tic-tac.pdb
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic_tac.Form1.resources
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.vbproj.GenerateResource.cache
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.AssemblyInfo.vb
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.dll
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\refint\proj_tic-tac.dll
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.pdb
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\proj_tic-tac.genruntimeconfig.cache
+D:\Programms\VB\GUI\proj_tic-tac\obj\Debug\net6.0-windows\ref\proj_tic-tac.dll

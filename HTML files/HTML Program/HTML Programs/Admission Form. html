@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+<form> 
+<table>
+<tr colspan="2" align="center"><th>Admission Form</th></tr>
+
+<tr><td><label for="fname">First Name:<font color="red"><sup>*</sup></font></label></td>
+<td><input type="text" placeholder="Enter Your First Name" id="fname" name="fname" ></td></tr>
+
+<tr><td><label for="mname">Middle Name:</label></td>
+<td><input type="text" placeholder="Enter Your Middle Name (Optional)" id="mname" name="mname" ></td></tr>
+
+<tr><td><label for="lname">Last Name: <font color="red"><sup>*</sup></font> </label></td>
+<td><input type="text" placeholder="Enter Your Last Name" id="lname" name="lname" ></td></tr>
+
+
+</table>
+</form>
+</body>
+</html>

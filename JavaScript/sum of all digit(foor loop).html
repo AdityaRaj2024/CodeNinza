@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>sum</title>
+</head>
+<body>
+<script>
+var n,sum=0,d;
+n=parseInt(prompt("Enter Any Number="))
+for( ;n>0;)
+{
+ d=n%10;
+ sum=sum+d;
+ n=Math.floor(n/10);
+}
+document.write("Sum Of All Digits="+sum);
+</script>
+</body>
+</html>

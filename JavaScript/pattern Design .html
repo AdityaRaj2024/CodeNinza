@@ -1,0 +1,75 @@
+<html>
+<head>
+<title>Pattern 1</title>
+</head>
+<body>
+<script>
+//Right Triangle
+/*var lines;
+lines=parseInt(prompt("Enter Number Of Lines= "))
+for(i=1;i<=lines;i++)
+{
+ for(j=1;j<=i;j++)
+{
+ document.write("*");
+}
+document.write("<br>");
+}*/
+//Inverted Right Triangle
+/*var lines,i,j;
+lines=parseInt(prompt("Enter Number Of Lines= "))
+for(i=1;i<=lines;i++)
+{
+ for(j=i;j<=lines;j++)
+{
+ document.write("*");
+}
+document.write("<br>");
+} */
+//Pyramid
+ /*var lines,i,j,k;
+ lines=parseInt(prompt("Enter Number Of Lines= "));
+ for(i=1;i<=lines;i++)
+ {
+  for(k=1;k<=lines-i;k++)
+   {
+    document.write("&nbsp");
+   }
+   for(j=1;j<=i;j++)
+    {
+     document.write(" * ");
+    }
+    document.write("<br>"); 
+ } */
+ //Mirrored Right Triangle
+/* var i,j,lines;
+ lines=parseInt(prompt("Enter Number Of Lines= "));
+ for(i=1;i<=lines;i++) //No. Of Lines
+{
+   for(j=i;j<lines;j++) //No. Of Space
+   {
+      document.write("&nbsp;&nbsp");
+   }
+   for(j=1;j<=i;j++)
+   {
+      document.write("*");
+    }
+    document.write("<BR>");
+    } */
+   //Square 
+   var i,j,lines;
+   lines=parseInt(prompt("Enter Number Of Lines= "));
+   for(i=1;i<=lines;i++) //No. Of Rows
+    {
+      for(j=1;j<=lines;j++)
+      {
+         if(i==1||i==lines||j==1||j==lines)
+         document.write(" *");
+         else
+         document.write("&nbsp;&nbsp");
+      }
+      document.write("<br>");
+    }
+</script>
+</body>
+</html>

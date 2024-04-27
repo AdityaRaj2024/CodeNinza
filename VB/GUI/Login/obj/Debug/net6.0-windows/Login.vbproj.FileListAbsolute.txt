@@ -1,0 +1,17 @@
+D:\Programms\VB\GUI\Login\bin\Debug\net6.0-windows\Login.exe
+D:\Programms\VB\GUI\Login\bin\Debug\net6.0-windows\Login.deps.json
+D:\Programms\VB\GUI\Login\bin\Debug\net6.0-windows\Login.runtimeconfig.json
+D:\Programms\VB\GUI\Login\bin\Debug\net6.0-windows\Login.dll
+D:\Programms\VB\GUI\Login\bin\Debug\net6.0-windows\Login.pdb
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.Form1.resources
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.Form2.resources
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.vbproj.GenerateResource.cache
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.AssemblyInfo.vb
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.dll
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\refint\Login.dll
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.pdb
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\Login.genruntimeconfig.cache
+D:\Programms\VB\GUI\Login\obj\Debug\net6.0-windows\ref\Login.dll

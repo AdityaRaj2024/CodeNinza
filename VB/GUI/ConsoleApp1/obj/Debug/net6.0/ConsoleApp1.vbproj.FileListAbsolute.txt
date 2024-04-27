@@ -1,0 +1,14 @@
+D:\Programms\VB\GUI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\Programms\VB\GUI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\Programms\VB\GUI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\Programms\VB\GUI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\Programms\VB\GUI\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.vb
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\Programms\VB\GUI\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

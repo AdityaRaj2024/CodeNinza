@@ -1,0 +1,16 @@
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.Form1.resources
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.vbproj.GenerateResource.cache
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.AssemblyInfo.vb
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\form3\bin\Debug\net6.0-windows\form3.exe
+D:\Programms\VB\GUI\form3\bin\Debug\net6.0-windows\form3.deps.json
+D:\Programms\VB\GUI\form3\bin\Debug\net6.0-windows\form3.runtimeconfig.json
+D:\Programms\VB\GUI\form3\bin\Debug\net6.0-windows\form3.dll
+D:\Programms\VB\GUI\form3\bin\Debug\net6.0-windows\form3.pdb
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.dll
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\refint\form3.dll
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.pdb
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\form3.genruntimeconfig.cache
+D:\Programms\VB\GUI\form3\obj\Debug\net6.0-windows\ref\form3.dll

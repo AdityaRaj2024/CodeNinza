@@ -1,0 +1,71 @@
+<html>
+<head>
+<title>SignUp Page</title>
+<link rel="stylesheet" href="sign.css">
+</head>
+<body id="body">
+<center>
+<form>
+<table>
+<tr class="nm">
+    <td>Name</td><TD><input type="text" placeholder="ENTER YOUR NAME" size="25"></td>
+</tr>
+<tr class="nm">
+    <td>Father's Name</td><td><input type="text" placeholder="ENTER YOUR Father's NAME" size="25"></td>
+</tr>
+<tr class="nm">
+    <td>Mother's Name</td><TD><input type="text" placeholder="ENTER YOUR Mother's NAME" size="25"></td>
+</tr>
+<tr class="pd">
+    <td>Enter Password</td><TD><input type="password"  maxlength="12" placeholder="ENTER PASSWORD"></td>
+</tr>
+<tr class="pd">
+    <td>Confirm Password</td><TD><input type="password"  maxlength="12" placeholder="Confirm PASSWORD"></td>
+</tr>
+<tr>
+    <td>E-Mail</td><td><input type="text" placeholder="ENTER E-MAIL ID" ></td>
+</tr>
+<tr>
+    <td>Enter Mobile Number</td><td><input type="number"placeholder="Enter Mobile Number"></td>
+</tr>
+<tr>
+    <td>Enter Alternate Mobile Number</td><td><input type="number"placeholder="Enter Mobile Number"></td>
+</tr>
+<tr><td>Select DOB</td><td><input type="date"></td></tr>
+<tr><td>Gender</td><td><input type="radio">Male<input type="radio">Female</td></tr>
+<tr>
+    <td>Qualification</td>
+    <td><input type="text" list="Study" placeholder="Select Qualification"><datalist id="Study">
+        <option>Below 10th</option>
+        <option>Matriculation</option>
+        <option>Inter</option>
+        <option>Graduation</option>
+        <option>Post-Graduation</option>
+    </datalist> </td>
+</tr>
+<tr>
+    <td>SELECT YOUR CITY</td>
+    <td><input type="text" list="city" placeholder="Select City"><datalist id="city">
+    <option>BIHAR SHARIF</option>
+    <option selected>PATNA</option>
+    <option>BARH</option>
+    <option>RAJGIR</option>
+    <option>ISLAMPUR</option>
+    <option>HARNAUT</option>
+    <option>DANAPUR</option>
+    <option>GAYA</option>
+    </datalist>></td>
+</tr>
+<tr>
+    <td>PIN Code</td><td><input type="number" placeholder="Enter Your PIN Code"></td>
+</tr>
+<tr><td>Hobbies</td><TD><input type="checkbox">Music<input type="checkbox">Cricket<input type="checkbox">Movies</TD></tr>
+<tr><td>Upload File</td><td><input type="file" accept="image/*,application/pdf,.docx"></td></tr>
+<tr><td>Address</td></tr>
+<tr><td><textarea rows="8" cols="49"></textarea></td></tr>
+<tr><td><input type="submit" value="signup"></td><td><input type="button" value="exit" onclick="window.close()"></td><td><input type="reset" value="Reset"></td></tr>
+</table>
+</form>
+</center>
+</body>
+</html>

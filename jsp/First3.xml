@@ -1,0 +1,10 @@
+<web-app>
+<Servlet>
+<Servlet-name>Apache Software Foundation</Servlet-name>
+<jsp-file>/First3.jsp</jsp-file>
+<init-param>
+<param-name>java</param-name>
+<param-value>Apache Software</param-value>
+</init-param>
+</Servlet>
+</web-app>

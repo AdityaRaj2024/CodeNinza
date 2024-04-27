@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page</title>
+</head>
+<body>
+<h1>JavaScript</h1>
+<h2>Arithmetic</h2>
+<p>A typical arithmetic operation takes two numbers(or expression) and produces a number</p>
+<q id="dem"></q>
+<p id="demo"></p>
+<r id="de"></r>
+<r id="demo1"></r>
+<t id="demo2"></t>
+<s id="age"></s>
+<button onclick="myfunction()">Try it</button>;
+<script>
+    //Arithmetic And Assignment operator
+    let a=3;
+    let x=(100+50)*a;
+    document.getElementById("dem").innerHTML=x;
+    let b=5;
+    let c=3;
+    let d=b+c;
+    document.getElementById("demo").innerHTML="The Sum of b +c is: "+d;
+
+    let e=15;
+    document.getElementById("de").innerHTML=(e>8);
+    //Logical operator
+    document.getElementById("demo1").innerHTML="<br>"+(x<10 && y>1)+"<br>"+(x<10 && y<1);
+
+    //ternary operator
+        functiom=myfunction()
+        {
+            let age=document.getElementById("age").value;
+            let voteable=(age<18)?"To Young":"Old Enough";
+            document.getElementById("demo2").innerHTML=Voteable+" To Vote";
+        }
+</script>
+</body>
+</html>
+
+
+<!-- <html>
+    <head>
+        <title>Web page</title>
+    </head>
+    <body>
+        <h1>javaScript</h1>
+        <
+    </body>
+</html> -->

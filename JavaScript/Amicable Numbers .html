@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Amicable Numbers</title>
+</head>
+<body>
+<script>
+var n1,n2,s1=0,s2=0,i ;
+n1=parseInt(prompt("Enter First Number"));
+n2=parseInt(prompt("Enter Second Number"));
+for(i=1;i<=n1/2;i++)
+{ 
+   if(n1%i==0)
+   s1=s1+i;
+}
+for(i=1;i<=n2/2;i++)
+{ 
+if(n2%i==0)
+ s2=s2+i;
+}
+if(s1==n2 && s2==n1)
+ document.write("Amicable.");
+else
+ document.write("Not Amicable.");
+</script>
+</body>
+</html>

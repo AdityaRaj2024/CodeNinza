@@ -1,0 +1,14 @@
+D:\Programms\VB\console\parameter_03\bin\Debug\net8.0\parameter_03.exe
+D:\Programms\VB\console\parameter_03\bin\Debug\net8.0\parameter_03.deps.json
+D:\Programms\VB\console\parameter_03\bin\Debug\net8.0\parameter_03.runtimeconfig.json
+D:\Programms\VB\console\parameter_03\bin\Debug\net8.0\parameter_03.dll
+D:\Programms\VB\console\parameter_03\bin\Debug\net8.0\parameter_03.pdb
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.AssemblyInfoInputs.cache
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.AssemblyInfo.vb
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.dll
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\refint\parameter_03.dll
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.pdb
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\parameter_03.genruntimeconfig.cache
+D:\Programms\VB\console\parameter_03\obj\Debug\net8.0\ref\parameter_03.dll

@@ -1,0 +1,16 @@
+D:\Programms\VB\GUI\pro_1\bin\Debug\net6.0-windows\pro_1.exe
+D:\Programms\VB\GUI\pro_1\bin\Debug\net6.0-windows\pro_1.deps.json
+D:\Programms\VB\GUI\pro_1\bin\Debug\net6.0-windows\pro_1.runtimeconfig.json
+D:\Programms\VB\GUI\pro_1\bin\Debug\net6.0-windows\pro_1.dll
+D:\Programms\VB\GUI\pro_1\bin\Debug\net6.0-windows\pro_1.pdb
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.Form1.resources
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.vbproj.GenerateResource.cache
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.AssemblyInfoInputs.cache
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.AssemblyInfo.vb
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.dll
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\refint\pro_1.dll
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.pdb
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\pro_1.genruntimeconfig.cache
+D:\Programms\VB\GUI\pro_1\obj\Debug\net6.0-windows\ref\pro_1.dll

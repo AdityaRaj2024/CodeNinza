@@ -1,0 +1,32 @@
+<!-- The onmousedown, onmouseup and onclick event -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OnMouse Event</title>
+</head>
+<body>
+    <h1>Javascript HTML events</h1>
+    <h2>The onmousedown Attribute</h2>
+    <div onmousedown="mDown(this)" onmouseup="mUp(this)" style="background-color: #D94A38; width: 90px; height: 20px; padding: 40px;">Click Me</div>
+    <script>
+        function mDown(obj)
+        {
+            obj.style.backgroundColor = "pink";
+            obj.innerHTML = "Release Me";
+            obj.style.width="80vw";
+            obj.style.height="80vh";
+        }
+        function mUp(obj)
+        {
+            obj.style.backgroundColor = "orange";
+            obj.innerHTML = "Thank You";
+            obj.style.width="20vw";
+            obj.style.height="20vh";
+            
+        }
+
+    </script>
+</body>
+</html>

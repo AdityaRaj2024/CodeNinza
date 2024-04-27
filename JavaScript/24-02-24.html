@@ -1,0 +1,46 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=script, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+        const para = document.getElementsByTagName("P");
+        document.write(Para);
+        const parent = para[0].parentNode;
+        console.log(parent);
+        parent.stylebackgroundcolor = "red";
+
+    </script>
+</body>
+</html> -->
+
+<!-- Adding and removing nodes -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=h2, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>JavaScript HTML DOM</h2>
+    <p>Add a New HTML Elements</p>
+    <div id="div1">
+        <p id="p1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. A nostrum at nisi saepe ducimus iusto laboriosam voluptatibus qui dolorum autem facere magni quisquam sunt, nemo iure. Voluptatum quo rerum ipsa?
+        Blanditiis libero dolor omnis magnam praesentium atque excepturi esse ea, numquam aut tempora voluptas eius aspernatur est rem iure obcaecati quia sunt nobis earum tempore beatae? Possimus enim fugiat aut?</p>
+        <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam veritatis aut saepe harum dignissimos ipsum earum delectus deserunt pariatur in rerum id, quis atque assumenda adipisci est quae voluptas tenetur.</p>
+
+    </div>
+    <script>
+        const para = document.createElement("P");
+        const node = document.createTextNode("This Is New");
+        para.appendChild(node);
+        const element = document.getElementById("div1");
+        element.appendchild(para);
+    </script>
+</body>
+</html>

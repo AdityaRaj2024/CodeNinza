@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>LCM</title>
+</head>
+<script>
+var a,b,c,lcm;
+a=parseInt(prompt("Enter A Number= "))
+c=parseInt(prompt("Enter A Number= "))
+b=parseInt(prompt("Enter A Number= "))
+lcm=a>b &&  a>c?a:(b>c?b:c);
+while(lcm%a!=0 || lcm%b!=0 || lcm%c!=0)
+{
+lcm++
+}
+document.write("L.C.M.= "+lcm)
+</script>
+</html>

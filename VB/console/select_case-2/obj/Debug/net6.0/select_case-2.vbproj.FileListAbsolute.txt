@@ -1,0 +1,14 @@
+D:\Programms\VB\console\select_case-2\bin\Debug\net6.0\select_case-2.exe
+D:\Programms\VB\console\select_case-2\bin\Debug\net6.0\select_case-2.deps.json
+D:\Programms\VB\console\select_case-2\bin\Debug\net6.0\select_case-2.runtimeconfig.json
+D:\Programms\VB\console\select_case-2\bin\Debug\net6.0\select_case-2.dll
+D:\Programms\VB\console\select_case-2\bin\Debug\net6.0\select_case-2.pdb
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.AssemblyInfoInputs.cache
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.AssemblyInfo.vb
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.vbproj.CoreCompileInputs.cache
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.dll
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\refint\select_case-2.dll
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.pdb
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\select_case-2.genruntimeconfig.cache
+D:\Programms\VB\console\select_case-2\obj\Debug\net6.0\ref\select_case-2.dll
